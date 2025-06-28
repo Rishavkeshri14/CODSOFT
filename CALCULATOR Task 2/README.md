@@ -23,5 +23,6 @@ Python (input handling, conditional logic, arithmetic operations)
 
 #OUTPUT
 
-#IMAGE LINK : 
+![Image](https://github.com/user-attachments/assets/7e7e3ddb-3ac3-4688-9673-87d43925f9df)
+
 
