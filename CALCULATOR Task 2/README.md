@@ -24,5 +24,5 @@ Python (input handling, conditional logic, arithmetic operations)
 #OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/7e7e3ddb-3ac3-4688-9673-87d43925f9df)
-
+![Image](https://github.com/user-attachments/assets/329a0ae9-91e3-44ea-af1a-cd5473e4568f)
 
