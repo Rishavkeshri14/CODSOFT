@@ -43,4 +43,4 @@ Enter your choice (rock/paper/scissors): rock
 
 Do you want to play another round? (yes/no): yes
 
-#IMAGE LINK :
+![Image](https://github.com/user-attachments/assets/c257ad42-ef6f-413a-befd-0156d0328999)
