@@ -26,4 +26,4 @@ Customizable for more specific rules (if needed)
 Enter the desired password length: 12
 Generated Password: k7$R!bU0qZ@f
 
-#IMAGE LINK: 
+![Image](https://github.com/user-attachments/assets/43048141-4719-40d7-93c9-d97edae57929)
